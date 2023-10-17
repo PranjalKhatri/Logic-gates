@@ -1,0 +1,38 @@
+{
+  "ProjectName": "SEriousness",
+  "BuildVersion": "1.0.2",
+  "CreationTime": "2023-08-26T19:52:52.2757252+05:30",
+  "AllCreatedChips": [
+    "OR",
+    "XOR",
+    "Adder",
+    "4 bit adder",
+    "ALU",
+    "NOR",
+    "4 bit REGISTER",
+    "D Latch",
+    "D Flip Flop",
+    "1 bit register",
+    "Play"
+  ],
+  "StarredChips": [
+    "AND",
+    "NOT",
+    "OR",
+    "XOR",
+    "Adder",
+    "4 bit adder",
+    "ALU",
+    "NOR",
+    "4 bit REGISTER",
+    "D Latch",
+    "D Flip Flop",
+    "1 bit register",
+    "Play"
+  ],
+  "DisplayOptions": {
+    "MainChipPinNameDisplayMode": 1,
+    "SubChipPinNameDisplayMode": 1,
+    "ShowCursorGuide": 1
+  }
+}
